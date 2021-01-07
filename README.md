@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-<img src="./assests.images/screencapture-sanchitbhasin-github-io-404-NOT-FOUND.png" alt="screenshot"  align="center"/>
+<img src="https://github.com/sanchitbhasin/404-NOT-FOUND/blob/main/asset/images/screencapture-sanchitbhasin-github-io-404-NOT-FOUND.png" alt="screenshot"  align="center"/>
 </div>
 
 <br>
