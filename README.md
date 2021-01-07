@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://sanchitbhasin.github.io/404-NOT-FOUND/">
       Demo
     </a>
     <span> | </span>
@@ -14,6 +14,12 @@
       Challenge
     </a>
   </h3>
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assests.images/screencapture-sanchitbhasin-github-io-404-NOT-FOUND.png" alt="screenshot"  align="center"/>
 </div>
 
 <br>
