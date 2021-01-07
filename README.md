@@ -17,12 +17,11 @@
 </div>
 
 <br>
-<br>
 
 ## Built With
 
--   [HTML]
--   [CSS]
+-   HTML
+-   CSS
 
 ## Features
 
